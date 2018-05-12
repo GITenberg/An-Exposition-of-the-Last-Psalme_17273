@@ -1,0 +1,35 @@
+_repo: An-Exposition-of-the-Last-Psalme_17273
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boys, John
+    aliases:
+    - Boetius, Iohannes
+    - Boys, Iohn
+    birthdate: 1571
+    deathdate: 1625
+    gutenberg_agent_id: '7265'
+    url: http://www.gutenberg.org/2009/agents/7265
+description: "Delivered In A Sermon Preached At Pavles\r\nCrosse the fifth of Nouember\
+  \ 1613.\r\nWhich I haue ioyned to the Festiuals as a short Apologie for our Holy\
+  \ daies in the Church of England."
+gutenberg_issued: '2005-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17273'
+language: en
+publication_note: "At London\r\nImprinted by Felix Kyngston, for\r\nWilliam Aspley.\
+  \ 1615."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 17th century'
+- !lcc 'BS'
+- !lcsh 'Bible. Psalms CL -- Commentaries -- Early works to 1800'
+- !lcsh 'Church of England -- Sermons'
+title: An Exposition of the Last Psalme
+url: http://www.gutenberg.org/ebooks/17273
